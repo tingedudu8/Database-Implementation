@@ -1,0 +1,17 @@
+(1)[Semantic Check]Query is valid.
+(2)[Semantic Check]Select attribute [s_s_suppkey] that is not functions of the grouping attributes.
+(3)[Semantic Check]Type mismatch occurs in > (* ([l_l_extendedprice], - (int[1], [l_l_discount])), string[a string]).
+(4)[Semantic Check]Type mismatch occurs in sum(+ ([l_l_returnflag], + ([l_l_shipdate], [l_l_commitdate]))).
+(5)[Semantic Check]Query is valid.
+(6)[Semantic Check]Type mismatch occurs in > (+ ([l_l_tax], [l_l_discount]), string[date2]).
+(7)[Semantic Check]Attribute [o_k_orderkey] does not exist.
+(8)[Semantic Check]Table alias h does not exist.
+(9)[Semantic Check]Type mismatch occurs in - (double[15.000000], string[here is another]).
+(10)[Semantic Check]Table customers does not exist.
+(11)[Semantic Check]Query is valid.
+(12)[Semantic Check]Query is valid.
+(13)[Semantic Check]Attribute [c_l_extendedprice] does not exist.
+(14)[Semantic Check]Query is valid.
+(15)[Semantic Check]Type mismatch occurs in > (+ ([l_l_discount], [l_l_extendedprice]), string[327]).
+(16)[Semantic Check]Query is valid.
+(17)[Semantic Check]Query is valid.
